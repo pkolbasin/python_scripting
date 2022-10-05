@@ -1,0 +1,1 @@
+print("Hello " + input("What`s your name? "))  #take the input from keyboard to add it std out
